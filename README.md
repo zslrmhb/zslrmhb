@@ -1,7 +1,14 @@
 ### Hi there 👋
+
+i AM a 4-th year undergraduate student at UC San Diego interested primarily in Data Science and other related fields!
+
 [![Hongbin's Github Stats](https://github-readme-stats.vercel.app/api?username=zslrmhb)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zslrmhb)](https://git.io/streak-stats)
 
+---
 
+### WORK IN PROGRESS
+[Personal Website](http://hongbinm.space/)  
 <!--
 **zslrmhb/zslrmhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
