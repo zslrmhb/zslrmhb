@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I AM a 4th year undergraduate student at UC San Diego interested primarily in Data Science and Machine Learning!
+I AM a 4th year undergraduate student at UC San Diego interested primarily in Data Science and Machine Learning, and much more!!!
 
 [![Hongbin's Github Stats](https://github-readme-stats.vercel.app/api?username=zslrmhb)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=zslrmhb)](https://git.io/streak-stats)
