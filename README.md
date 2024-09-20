@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I AM a incoming graduate student at UC Irvine primarily interested in Machine Learning, Data Science, and Computational Neuroscience.
+I AM a graduate student at UC Irvine primarily interested in Machine Learning, Data Science, and Computational Neuroscience.
 
 
 
