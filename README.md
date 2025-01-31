@@ -4,7 +4,6 @@ I AM a graduate student at UC Irvine primarily interested in Machine Learning, D
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zslrmhb)](https://git.io/streak-stats)
 
 
 
