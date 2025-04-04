@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Hongbin
 
-I AM a graduate student at UC Irvine primarily interested in Machine Learning, Data Science, and Computational Neuroscience.
+
 
 
 
